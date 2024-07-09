@@ -46,3 +46,45 @@ body{
     font-weight: 900;
     text-align: center;
 }
+
+/*  */
+.second-section-container{
+    width: 802.9px;
+    height: 800px;
+    margin: 0 auto;
+    border: 2px solid red;
+    margin-top: 80px;
+}
+.second-section-contant h1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.second-section-contant p{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 30px;
+}
+.second-section-contant h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.second-section-img{
+    margin-top: 50px;
+}
